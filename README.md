@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vincent
 - 👀 I’m interested in PHP
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JS & C++
+- 💞️ I’m looking to collaborate on PHP Projects
 - 📫 How to reach me, @foster_network - Twitter, +2349069100379 - Phone
 
 <!---
