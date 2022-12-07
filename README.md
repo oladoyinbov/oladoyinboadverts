@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Golang & Java
 - 💞️ I’m looking to collaborate on PHP Projects
 - 📫 How to reach me:<br>
-<b>Twitter:</b> @TheAuis<be>
+<b>Twitter:</b> @TheAuis<br>
 <b>Phone:</b> +2349069100379.
 
 <h3 align="center">A passionate Frontend And Backend Developer</h3>
