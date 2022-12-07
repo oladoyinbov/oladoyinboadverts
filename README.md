@@ -10,7 +10,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oladoyinboadverts" alt="oladoyinboadverts" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/TheAuis" target="blank"><img src="https://img.shields.io/twitter/follow/foster_network?logo=twitter&style=for-the-badge" alt="foster_network" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
