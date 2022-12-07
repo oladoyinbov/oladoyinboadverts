@@ -2,7 +2,9 @@
 - 👀 I’m interested in Backend and Frontend Development
 - 🌱 I’m currently learning Golang & Java
 - 💞️ I’m looking to collaborate on PHP Projects
-- 📫 How to reach me, @foster_network - Twitter, +2349069100379 - Phone
+- 📫 How to reach me:
+<b>Twitter:</a> @foster_network
+<b>Phone:</b> +2349069100379.
 
 <h3 align="center">A passionate Frontend And Backend Developer</h3>
 
